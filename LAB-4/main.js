@@ -1,8 +1,8 @@
 
 var num = 10;
-let name = "chin";
+let name = "Palm";
 ////let Array = [10,15,"chin"];
-const obj = {name: "chin", age: 20};
+const obj = {name: "Palm", age: 20};
 const objMix = {
     data:[
         {name: "World", gpa: 4.2},
@@ -34,7 +34,7 @@ document.getElementById("div1").innerHTML = name;
 
 $(function () {
     ///alert("Hello");
-    $("#div1").html("Chinnawat");
+    $("#div1").html("Nobphanusiri");
 
     $("#bt1").click(function () {
         $("#div1").html("I Love Money");
